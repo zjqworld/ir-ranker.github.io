@@ -11,9 +11,9 @@ title                    : "Junqi Zhang"
 title_separator          : "-"
 name                     : &name "Junqi Zhang"
 description              : &description "PhD student at Tsinghua University"
-url                      : https://ir-ranker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangjunqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "IR-Ranker/IR-Ranker.github.io"
+repository               : "IR-Ranker/zhangjunqi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=0aHrHfkAAAAJ"
-  email            : "zhangjq17@mails.tsinghua.edu.cn"
+  email            : "zhangjunqi@atomecho.xyz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
