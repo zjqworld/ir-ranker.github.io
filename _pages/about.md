@@ -16,7 +16,7 @@ Recent Professional Activities
 
 Publications
 ======
-* Yongle Li, Zheng Zhang, ***Junqi Zhang***, Wenbo Hu, Yongyu Wu, Richang Hong. AtomTool: Empowering Large Language Models with Tool Utilization Skills. The 7th Chinese Conference on Pattern Recognition and Computer Vision (**PRCV 2024**)
+* Yongle Li, Zheng Zhang, ***Junqi Zhang***, Wenbo Hu, Yongyu Wu, Richang Hong. AtomTool: Empowering Large Language Models with Tool Utilization Skills. The 7th Chinese Conference on Pattern Recognition and Computer Vision (**PRCV 2024**).
 * ***Junqi Zhang***, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, Shaoping Ma, and Qi Tian. Global or Local: Constructing Personalized Click Models for Web Search. The Web Conference 2022. (**theWebConf 2022**). [Preprint Version.](https://dl.acm.org/doi/10.1145/3485447.3511950)
 * ***Junqi Zhang***, Yiqun Liu, Jiaxin Mao, Weizhi Ma, Jiazheng Xu, Shaoping Ma and Qi Tian. User Behavior Simulation for Search Result Re-ranking. ACM Transactions on Information Systems (**TOIS**). [Preprint Version.](https://dl.acm.org/doi/pdf/10.1145/3511469)
 * ***Junqi Zhang***, Jiaxin Mao, Yiqun Liu, Ruizhe Zhang, Min Zhang, Shaoping Ma, Jun Xu and Qi Tian. Context-Aware Ranking by Constructing a Virtual Environment for Reinforcement Learning. The 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**). [Preprint Version.](http://www.thuir.cn/group/~YQLiu/publications/CIKM2019-ZhangJunqi.pdf) [Datasets.](http://www.thuir.cn/data-srr/)
