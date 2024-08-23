@@ -26,7 +26,7 @@ Publications
 
 Education
 ======
-* ***Sep. 2017 - Present***, Ph.D., Department of Computer Science and Technology, Tsinghua University.
+* ***Sep. 2017 - Jul. 2022***, Ph.D., Department of Computer Science and Technology, Tsinghua University.
 * ***Sep. 2013 - Jul. 2017***, B.E., Department of Computer Science and Technology, Tsinghua University.
 
 Experiences
