@@ -16,6 +16,7 @@ Recent Professional Activities
 
 Publications
 ======
+* Muchen Yang, Moxin Li, Yongle Li, Zijun Chen, Chongming Gao, ***Junqi Zhang***, Yangyang Li, Fuli Feng. Dual-Phase Accelerated Prompt Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing  (**EMNLP 2024**).
 * Yongle Li, Zheng Zhang, ***Junqi Zhang***, Wenbo Hu, Yongyu Wu, Richang Hong. AtomTool: Empowering Large Language Models with Tool Utilization Skills. The 7th Chinese Conference on Pattern Recognition and Computer Vision (**PRCV 2024**).
 * ***Junqi Zhang***, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, Shaoping Ma, and Qi Tian. Global or Local: Constructing Personalized Click Models for Web Search. The Web Conference 2022. (**theWebConf 2022**). [Preprint Version.](https://dl.acm.org/doi/10.1145/3485447.3511950)
 * ***Junqi Zhang***, Yiqun Liu, Jiaxin Mao, Weizhi Ma, Jiazheng Xu, Shaoping Ma and Qi Tian. User Behavior Simulation for Search Result Re-ranking. ACM Transactions on Information Systems (**TOIS**). [Preprint Version.](https://dl.acm.org/doi/pdf/10.1145/3511469)
